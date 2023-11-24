@@ -1,0 +1,154 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+section{
+    width: 1440px;
+    height: 2000px;
+}
+
+.head{
+    width: 1600px;
+    height: 974px;
+    background: linear-gradient(black, #333);
+    color: #fff;
+    font-size: 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.head img{
+    padding: 17px 77px;
+}
+
+ul{
+    display: inline-block;
+    margin-left: 400px;
+
+}
+
+li{
+    display: inline-block;
+    list-style: none;
+    padding: 20px;
+}
+
+.head button{
+    padding: 15px 25px;
+    background-color: plum;
+    border-radius: 7px;
+}
+
+.nas{
+    margin: 80px;
+}
+
+.nas h1{
+    font-size: 80px;
+    width: 50%
+
+}
+
+.nas p{
+    width: 40%;
+    font-size: 20px;
+}
+
+.show .a{
+    margin-left: 800px;
+    margin-top: -500px;
+}
+
+.show .b{
+    margin-left: 800px;
+    margin-top: -250px;
+}
+
+.mln{
+    justify-content: space-around;
+    background-color: #fff;
+    color: #333;
+    font-size: 48px;
+    padding: 30px;
+    box-shadow: 0px 2px 10px 0px rgba(0, 0, 0, 0.15);
+}
+
+.back p{
+    color: #000;
+    font-size: 48px;
+    width: 40%;
+    margin-left: 700px;
+    margin-top: -500px;
+}
+
+.back h6{
+    color: #333;
+    width: 40%;
+    font-size: 20px;
+    margin-left: 700px;
+    margin-top: -300px;
+}
+
+.back img{
+    padding: 100px 100px;
+}
+
+.back button{
+    margin-left: 700px;
+    margin-top: 200px;
+    border: 0px;
+}
+
+.our h1{
+    font-size: 48px;
+    color: #000;
+    margin: 300px 30px;
+}
+
+  
+
+.our p{
+    color: #000;
+    margin: 30px;
+    width: 30%;
+}
+
+.group2{
+    margin-left: 800px;
+    margin-top: -550px;
+    width: 100%;
+}
+
+.footer{
+    margin-top: 100px;
+    background-color: #190422;
+    height: 40%;
+}
+
+.footer img{
+    margin: 72px 80px;
+}
+
+.footer ul{
+    margin-left: -330px;
+}
+
+.icon{
+    font-size: 30px;
+    margin: 20px 140px;
+}
+
+.right{
+    margin-left: 1000px;
+    margin-top: -200px;
+    border: 0px;
+}
+
+.right input{
+    padding: 20px 10px;
+}
+
+.img1{
+    margin-left: 400px;
+}
